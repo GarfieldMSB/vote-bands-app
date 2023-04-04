@@ -1,4 +1,4 @@
-# Vote Bands ReactApp
+# FRONTEND: Sockets Vote Band ReactApp
 
 ### `Frontend and Backend repository`
 First you should clone the [Frontend](https://github.com/GarfieldMSB/vote-bands-app-frontend) and [Backend](https://github.com/GarfieldMSB/vote-bands-app-backend) repository in your PC
