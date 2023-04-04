@@ -1,7 +1,7 @@
 # Vote Bands ReactApp
 
 ### `Frontend and Backend repository`
-First you should clone the [https://github.com/GarfieldMSB/vote-bands-app-frontend](Frontend) and [https://github.com/GarfieldMSB/vote-bands-app-backend](Backend) repository in your PC
+First you should clone the [Frontend](https://github.com/GarfieldMSB/vote-bands-app-frontend) and [Backend](https://github.com/GarfieldMSB/vote-bands-app-backend) repository in your PC
 
 ## Available Scripts
 
